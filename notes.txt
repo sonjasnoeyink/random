@@ -1,0 +1,22 @@
+- Git - Not a programming language, rather a control system. Version/Source control.
+        - Why do we use git? Why is it important?
+            - Collaboration with developers across the world.
+            - A default location for all developers to access pertinent source code.
+            - Saves $$ and time for developers and companies.
+               - For example, if I worked at a tech company and for whatever reason we didn't use source control,
+               all the source code was on my machine. If my machine crashed one day, everyone is screwed.
+            - We as a tech team releases a 2.0 version of software and later found it had a severe bug,
+            I could revert to a previous version that I know is stable and tested.
+
+
+
+- Github/Gitlab/Bitbucket - The hub for all this source code for developers.
+
+
+
+- Terminal  - This is where we execute the git commands
+        - git add
+        - git commit
+        - git reset
+        - git status
+        - git pull/push
